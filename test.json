@@ -1,5 +1,15 @@
 {
-  "intro_text": "Bienvenido a la nueva versión 🚀",
+  "intro_text": "
+  GITHUB Json
+  Please note that this a <color=yellow>preliminary version </color>of the game.
+
+As such, please be aware that the game is still <color=yellow>under development</color>, and not all features and game modes are fully implemented yet. 
+
+UI, HUD, characters, modes, mechanics, music & sound FX, and some 3D assets are <color=yellow>provisional and subject to change</color>.
+
+Please don't forget to participate in the survey! 
+
+We hope you <color=yellow>enjoy playing</color> <b>Rivals Hover League</b>.🚀",
   "news_text": "Evento activo este fin de semana.",
   "patch_notes": "PATCH 1.0\n\n• Ajuste de físicas\n• Mejora de UI\n• Corrección de bugs"
 }
