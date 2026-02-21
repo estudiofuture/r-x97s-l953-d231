@@ -12,13 +12,13 @@
 
 <b><size=+2>15 / 11 / 2018 : Actualización v7.0.4</size>
 <size=+1>Nuevas Características</size> </b>
- - Menú inicial de registro de usuario.
- - Menú de errores al finalizar la experiencia.
+ - <color=yellow>Menú inicial</color> de registro de usuario.
+ - Menú de <b>errores</b> al finalizar la experiencia.
  - Añadido error en caso de no purgar todos los compartimentos durante la carga.
 
 <b><size=+1>Arreglos</size></b>
  - Corregido error en evento de carga.
- - Corregido ARGOS representa dos descargas cuando se abre un grifo.
+ - Corregido <b><color=yellow>ARGOS</color></b> representa dos descargas cuando se abre un grifo.
  - Mejorado comportamiento mangueras.
 .",
   "news_text": "Evento activo este fin de semana.",
