@@ -1,7 +1,7 @@
 {
   "intro_text": "
-<b><size=+9>07 / 12 / 2018 : Actualización v7.0.5</size>
-<b><size=+4>Arreglos</size></b>
+<b><size=+2>07 / 12 / 2018 : Actualización v7.0.5</size>
+<b><size=+1>Arreglos</size></b>
  - Rotados escenarios para situar los camiones en la misma posición respecto al mundo real.
  - Detección de la manguera de vapores conectada al cambiar de calle durante la carga.
  - Evento de corte de suministro al repetir la experiencia de carga.
@@ -10,13 +10,13 @@
  - Las tejas de precinto de los compartimentos descargados aparecen levantadas en los contenedores ya descargados en la descarga por gravedad.
  - Botón de Abandonar en la primera estación no necesita que se haya completado la descarga para funcionar en la descarga por gravedad.
 
-<b><size=+9>15 / 11 / 2018 : Actualización v7.0.4</size>
-<size=+4>Nuevas Características</size> </b>
+<b><size=+2>15 / 11 / 2018 : Actualización v7.0.4</size>
+<size=+1>Nuevas Características</size> </b>
  - Menú inicial de registro de usuario.
  - Menú de errores al finalizar la experiencia.
  - Añadido error en caso de no purgar todos los compartimentos durante la carga.
 
-<b><size=+4>Arreglos</size></b>
+<b><size=+1>Arreglos</size></b>
  - Corregido error en evento de carga.
  - Corregido ARGOS representa dos descargas cuando se abre un grifo.
  - Mejorado comportamiento mangueras.
