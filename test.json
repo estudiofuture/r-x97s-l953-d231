@@ -1,6 +1,6 @@
 {
-  "intro_text": "
-<b><size=+2>07 / 12 / 2018 : Actualización v7.0.5</size></b>
+  "intro_text": 
+"<b><size=+2>07 / 12 / 2018 : Actualización v7.0.5</size></b>
 <b><size=+1>Arreglos</size></b>
  - Rotados escenarios para situar los camiones en la misma posición respecto al mundo real.
  - Detección de la manguera de vapores conectada al cambiar de calle durante la carga.
